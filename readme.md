@@ -39,7 +39,11 @@ $ python main.py
 ```
 Run unit test...
 ```sh
-$ python test_game.py
+$ python -m unittest test_game
+```
+also can run ...
+```sh
+$ python -m unittest 
 ```
 
 ### Advantage
