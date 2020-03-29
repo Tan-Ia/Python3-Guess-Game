@@ -1,17 +1,17 @@
-# Python Simple Console Bank App  
+# Python Simple Number  Guesseing App  
 
 
-This is a simple django blog project. 
+ Python Simple Number  Guesseing App. 
 #  Features!
   - python==3.6.2 
 You can also:
-  - You can open account multiple user deposite amount can check balance
+  - You can also play itself 
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
 * [Python3] 
 
-And of course Bank_App_With_Python_Console itself is open source with a [public repository][dill]
+And of course  Python Simple Number  Guesseing App itself is open source with a [public repository][dill]
  on GitHub.
 
 ### Installation
@@ -19,7 +19,7 @@ And of course Bank_App_With_Python_Console itself is open source with a [public 
 It requires  v3.7+ to run.
 Clone project from github
 ```sh
-$ git clone https://github.com/Tan-Ia/Bank_App_With_Python_Console.git
+$ git clone https://github.com/Tan-Ia/Python3-Guess-Game.git
 ```
 Install virtualenvironment...
 ```sh
