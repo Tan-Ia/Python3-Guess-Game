@@ -6,7 +6,7 @@ This is a simple Python3-Guess-Game.
   - python==3.6.2 
 
 
-  - with this you cn play a funny game gussing the number by given input with console
+  - with this you can play a funny game gussing the number by given input with console
 
   
 ### Tech
