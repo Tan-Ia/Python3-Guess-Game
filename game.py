@@ -10,7 +10,6 @@ def guessinggame():
             guess_num = int(input("Can you guess the random number between 1 and 10  Type it-> "))
             if(type(guess_num) in [int]):
                 tries += 1
-                print(f"Answer {answer}")
                 if(guess_num == answer):
                     run_game = False
                     print(f"Correct :) With {tries} attemp You Success")

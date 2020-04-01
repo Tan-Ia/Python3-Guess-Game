@@ -1,17 +1,20 @@
-# Python Simple Console Bank App  
+# Python Simple Console Python3-Guess-Game 
 
 
-This is a simple django blog project. 
+This is a simple Python3-Guess-Game. 
 #  Features!
   - python==3.6.2 
-You can also:
-  - You can open account multiple user deposite amount can check balance
+
+
+  - with this you cn play a funny game gussing the number by given input with console
+
+  
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
 * [Python3] 
 
-And of course Bank_App_With_Python_Console itself is open source with a [public repository][dill]
+And of course  Python3-Guess-Game itself is open source with a [public repository][dill]
  on GitHub.
 
 ### Installation
