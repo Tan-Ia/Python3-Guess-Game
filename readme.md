@@ -1,3 +1,4 @@
+
 # Python Simple Number  Guesseing App  
 
 
@@ -6,12 +7,27 @@
   - python==3.6.2 
 You can also:
   - You can also play itself 
+# Python Simple Console Python3-Guess-Game 
+
+
+This is a simple Python3-Guess-Game. 
+#  Features!
+  - python==3.6.2 
+
+
+  - with this you can play a funny game gussing the number by given input with console
+
+
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
 * [Python3] 
 
+
 And of course  Python Simple Number  Guesseing App itself is open source with a [public repository][dill]
+=======
+And of course  Python3-Guess-Game itself is open source with a [public repository][dill]
+
  on GitHub.
 
 ### Installation
