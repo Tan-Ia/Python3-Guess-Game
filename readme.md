@@ -1,3 +1,12 @@
+
+# Python Simple Number  Guesseing App  
+
+
+ Python Simple Number  Guesseing App. 
+#  Features!
+  - python==3.6.2 
+You can also:
+  - You can also play itself 
 # Python Simple Console Python3-Guess-Game 
 
 
@@ -8,13 +17,17 @@ This is a simple Python3-Guess-Game.
 
   - with this you can play a funny game gussing the number by given input with console
 
-  
+
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
 * [Python3] 
 
+
+And of course  Python Simple Number  Guesseing App itself is open source with a [public repository][dill]
+=======
 And of course  Python3-Guess-Game itself is open source with a [public repository][dill]
+
  on GitHub.
 
 ### Installation
@@ -22,7 +35,7 @@ And of course  Python3-Guess-Game itself is open source with a [public repositor
 It requires  v3.7+ to run.
 Clone project from github
 ```sh
-$ git clone https://github.com/Tan-Ia/Bank_App_With_Python_Console.git
+$ git clone https://github.com/Tan-Ia/Python3-Guess-Game.git
 ```
 Install virtualenvironment...
 ```sh
